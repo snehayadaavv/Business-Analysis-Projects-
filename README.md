@@ -1,5 +1,5 @@
 # Business-Analysis-Projects-
-##Data Analytics & Product Strategy Projects Portfolio
+Data Analytics & Product Strategy Projects Portfolio
 
 Welcome to my project portfolio!
 This repository showcases my work across data analytics, product thinking, and business strategy, where I combine data-driven insights with real-world problem solving.
